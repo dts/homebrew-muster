@@ -1,6 +1,6 @@
 cask "muster" do
-  version "0.2.0"
-  sha256 "145cac6f0d4c709b1f28a79cea28e4462dfd06cea225b65beaaacad6f4bf9403"
+  version "0.2.1"
+  sha256 "455d7c335778744fea1493c5869692c8d9e2a015af3112603bf5192cef36bd8d"
 
   url "https://gitlab.com/api/v4/projects/80403280/packages/generic/muster/#{version}/Muster-#{version}.dmg"
   name "Muster"
